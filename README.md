@@ -49,17 +49,21 @@ mensagem correspondente.
 Leia 4 valores reais que correspondem a 4 notas de um estudante. A
 seguir, calcule a média do estudante.
 
-| Exemplos Entrada: | Exemplos Saída |  | |
+
+| Exemplos Entrada: | Exemplos Saída |  |
 |--- |--- |--- |
-| 5.0|| ||
-|7.1|  MÉDIA 7.5| ||
-|8.5||||
-|9.4| |  ||
-|----------------------------- |-------------------------|||
-| 10.0|| ||
-|7.5|  MÉDIA 6.25| ||
-|4.2||||
-|3.3| |  |||
+|5.0|  |  |
+| 7.1 | MÉDIA 7.5 |  |
+| 8.5 |  |  |
+| 9.4 |  |  ||
+
+| Exemplos Entrada: | Exemplos Saída |  |
+|--- |--- |--- |
+|10.0|  |  |
+| 7.5 | MÉDIA 6.25 |  |
+| 4.2 |  |  |
+| 3.3 |  |  ||
+
 
 ##### 6) Média 1����
 Leia 2 valores reais A e B, que correspondem a 2 notas de um estudante. A
